@@ -1,0 +1,40 @@
+C:\Nueva carpeta\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Nueva carpeta\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Nueva carpeta\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Nueva carpeta\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Nueva carpeta\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.FrmCalculadora.resources
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.Properties.Resources.resources
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.FrmAyuda.resources
+C:\Nueva carpeta\Calculadora\obj\Debug\net6.0-windows\Calculadora.FrmLogin.resources
+C:\lenguaje-cs-0457\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\lenguaje-cs-0457\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\lenguaje-cs-0457\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\lenguaje-cs-0457\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\lenguaje-cs-0457\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.FrmAyuda.resources
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.FrmCalculadora.resources
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.FrmLogin.resources
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.Properties.Resources.resources
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\lenguaje-cs-0457\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
